@@ -4,5 +4,6 @@ Android app developed with latest android technologies (Firebase, ViewModel, Liv
 
 ## Usage
 
-Username:
-Password:
+Name: milan  
+Index: rn-24-16
+
